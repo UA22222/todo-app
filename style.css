@@ -48,3 +48,6 @@ li.completed {
   text-decoration: line-through;
   color: gray;
 }
+body {
+  background: #e0f7fa;
+}
